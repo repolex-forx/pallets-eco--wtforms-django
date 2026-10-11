@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pallets-eco/wtforms-django/commit/d35ac883d0060cc3257fc74a3a8bc5363f86de0b",
       "git:hexsha": "d35ac883d0060cc3257fc74a3a8bc5363f86de0b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pallets-eco/wtforms-django/commit/0c52a3545cb9f727516d249fab8a37c62d7685de",
